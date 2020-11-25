@@ -5,9 +5,7 @@ It is not a library, but close if you want to have your own loading screen.
 # How to use
 To start loading of screen, put the "load()" function inside the body tag like this:
 
-<body onload="load()">
+'<body onload="load()">'
 
 And to show screen for loading, use the "startLoadScreen()" function.
-
-# Also, I don't have npm. So yeah.
 
