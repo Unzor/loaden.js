@@ -7,7 +7,9 @@ To start loading of screen, put the "load()" function inside the body tag like t
 
 body onload="load()"
 
-And to show screen for loading, use the "startLoadScreen()" function.
+To show screen for loading, use the "startLoadScreen()" function.
+
+And to stop the load, use the "stopLoad()" function.
 
 # Also,
 This is not available on npm because I made this on a chromebook and I am a beginner at npm.
