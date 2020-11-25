@@ -13,4 +13,4 @@ And to stop the load, use the "stopLoad()" function.
 
 # Also,
 This is not available on npm because I made this on a chromebook and I am a beginner at npm.
-So yeah. No npm. Sorry
+So yeah. No npm. Sorry.
